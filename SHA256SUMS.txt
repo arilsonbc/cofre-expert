@@ -1,0 +1,1 @@
+10b0820d6cc5e81e4fcf213fa2e91089771e1b1f00bfbe9bc60720593fe9fab7  bin/cofre-expert.exe
